@@ -1,4 +1,4 @@
-# Titanic-Classification-Project
+# Titanic Survival Classification
 ## Project Description
 This project aims to develop a predictive model that determines the likelihood of a passenger's survival on the Titanic based on a set of socio-economic and demographic factors. By analyzing data from the Titanic dataset, the project investigates how various attributes like socio-economic status, age, and gender influenced survival outcomes. This model can serve as a foundational system for understanding how specific passenger characteristics impacted survival probability.
 
